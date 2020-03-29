@@ -16,7 +16,7 @@ $ npm install --save-dev flux
 ```
 npm start
 ```
-でサーバを開きRun
+でサーバを開きVSCodeでRun
 
 ## 参考文献
 [今から始めるReact入門〜flux編](https://qiita.com/TsutomuNakamura/items/cb3b6109fb21730cd73f)
